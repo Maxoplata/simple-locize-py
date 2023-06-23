@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+/build
+/dist
+/simple_locize/__pycache__
+/tests/__pycache__
+.env
+simple_locize.egg-info
